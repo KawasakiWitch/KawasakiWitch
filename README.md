@@ -6,7 +6,7 @@ My main focus is on learning Java through making tools that I find useful in eve
 I just like having fun with coding. <br>
 <br>
 📝If I'm not coding I'm probably writing <br>
-⛩️I speaking Japanese. Sometimes my comments are in Japanese <br>
+⛩️I speak Japanese. Sometimes my comments are in Japanese <br>
 🩷Usually listening to music when I code <br>
 ##
 xoxo
