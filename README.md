@@ -2,9 +2,12 @@
 I go by Kawasaki (or Saki for short)
 I use GitHub to post and organize my own little projects.
 
-My main focus is on learning Java through making simulation software, small games, and simple tools. <br>
-This isn't really a professional profile for anything, I just like having fun. <br>
-However, this could become a professional profile, but it will still remain fun because what's the point of it not. <br>
+My main focus is on learning Java through making tools that I find useful in everyday life. <br>
+I just like having fun with coding. <br>
+<br>
+📝If I'm not coding I'm probably writing <br>
+⛩️I speaking Japanese. Sometimes my comments are in Japanese <br>
+🩷Usually listening to music when I code <br>
 ##
 xoxo
 <!--
